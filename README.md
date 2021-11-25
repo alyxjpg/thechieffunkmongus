@@ -1,6 +1,6 @@
 # Chief Among Us Friday Night Funkin mod thing
 
-genuinely the greatest thing ever made
+genuinely the greatest thing ever made  
 also my first time using github this shit messy as hell just send me a [newgrounds message](https://squide.newgrounds.com/) if something is wrong i guess lol
 
 ## Credits
