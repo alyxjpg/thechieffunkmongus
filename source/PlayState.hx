@@ -1737,7 +1737,9 @@ songSpeed = SONG.speed;
 	}
 
 	private function generateStaticArrows(player:Int, theAlpha:Float):Void
-	{
+	{	
+		//test
+		//test 2 github testing
 		for (i in 0...4)
 		{
 			// FlxG.log.add(i);
