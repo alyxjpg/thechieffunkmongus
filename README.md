@@ -20,21 +20,21 @@ Original FNF Team
 - [Kawaisprite](https://twitter.com/kawaisprite)
 
 Hypno's Lullaby Mod (where monochrome and some code bits is from) created by:  
-[mod link](https://gamebanana.com/mods/332345)   
+[hypnos mod link](https://gamebanana.com/mods/332345)   
 [hypnos github link](https://github.com/Yoshubs/Hypnos-Lullaby)   
-Banbuds  
-Shubs   
-Ash   
-Nimbus Cumulus   
-Adam McHummus   
-TheInnuend0   
-Uncle Joel  
-ChillinHenry   
-Typic   
-Fidy50   
-Sandplanet   
-ScorchVx   
-Mr_NoL  
+- Banbuds  
+- Shubs   
+- Ash   
+- Nimbus Cumulus   
+- Adam McHummus   
+- TheInnuend0   
+- Uncle Joel  
+- ChillinHenry   
+- Typic   
+- Fidy50   
+- Sandplanet   
+- ScorchVx   
+- Mr_NoL  
   
 
 .
