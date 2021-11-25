@@ -16,18 +16,18 @@ Original FNF Team
 - [Evilsk8r](https://twitter.com/evilsk8r)
 - [Kawaisprite](https://twitter.com/kawaisprite)
 
-Hypno's Lullaby Mod (where monochrome and some code bits is from) created by:
-https://gamebanana.com/mods/332345
-Banbuds
-Shubs 
-Ash 
-Nimbus Cumulus 
-Adam McHummus 
-TheInnuend0 
-Uncle Joel
-ChillinHenry 
-Typic 
-Fidy50 
-Sandplanet 
-ScorchVx 
-Mr_NoL
+Hypno's Lullaby Mod (where monochrome and some code bits is from) created by:  
+https://gamebanana.com/mods/332345  
+Banbuds  
+Shubs   
+Ash   
+Nimbus Cumulus   
+Adam McHummus   
+TheInnuend0   
+Uncle Joel  
+ChillinHenry   
+Typic   
+Fidy50   
+Sandplanet   
+ScorchVx   
+Mr_NoL  
