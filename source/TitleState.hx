@@ -506,7 +506,7 @@ class TitleState extends MusicBeatState
 			{
 				case 1:
 					createCoolText(['the best mod ever by'], 0);
-					addMoreText('sussussus', 0);
+					addMoreText('Susususus', 0);
 					addMoreText('squide', 0);
 					addMoreText('bon', 0);
 				// credTextShit.visible = true;
