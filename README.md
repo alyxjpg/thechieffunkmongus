@@ -1,7 +1,7 @@
 # Chief Among Us Friday Night Funkin mod thing
 
 genuinely the greatest thing ever made  
-also my first time using github this shit messy as hell just send me a [newgrounds message](https://squide.newgrounds.com/) if something is wrong i guess lol
+also my first time using github this shit messy as hell just send me a [newgrounds message](https://squide.newgrounds.com/) if something is wrong i guess lol  
 built on [psych engine](https://github.com/ShadowMario/FNF-PsychEngine) by shadowmario & co
 
 ## Credits
@@ -18,8 +18,8 @@ Original FNF Team
 - [Kawaisprite](https://twitter.com/kawaisprite)
 
 Hypno's Lullaby Mod (where monochrome and some code bits is from) created by:  
-[mod link](https://gamebanana.com/mods/332345) 
-[hypnos github link]()
+[mod link](https://gamebanana.com/mods/332345)   
+[hypnos github link](https://github.com/Yoshubs/Hypnos-Lullaby)   
 Banbuds  
 Shubs   
 Ash   
