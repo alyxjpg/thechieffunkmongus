@@ -11,7 +11,7 @@ built on [psych engine](https://github.com/ShadowMario/FNF-PsychEngine) by shado
 Chief Among Us Team
 - [squide](https://twitter.com/squidejpg)
 - [Bon](https://twitter.com/ProjectBon)
-- [sussussus](https://twitter.com/SususususMan)
+- [Susususus](https://twitter.com/SususususMan)
 
 Original FNF Team
 - [ninjamuffin99](https://twitter.com/ninja_muffin99)
@@ -41,4 +41,6 @@ Hypno's Lullaby Mod (where monochrome and some code bits is from) created by:
 .
 .
       
-gettin' freaky on a friday night y'all
+gettin' freaky on a friday night y'all  
+
+![YOITUSBOYS](https://github.com/alyxjpg/thechieffunkmongus/blob/main/assets/preload/images/YOITUSBOYS.png)
