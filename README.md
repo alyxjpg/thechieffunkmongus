@@ -41,5 +41,5 @@ Hypno's Lullaby Mod (where monochrome and some code bits is from) created by:
 .
 .
       
-gettin' freaky on a friday night y'all
+gettin' freaky on a friday night y'all  
 ![YOITUSBOYS](https://github.com/alyxjpg/thechieffunkmongus/blob/main/assets/preload/images/YOITUSBOYS.png)
