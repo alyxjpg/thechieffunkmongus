@@ -4,6 +4,8 @@ genuinely the greatest thing ever made
 also my first time using github this shit messy as hell just send me a [newgrounds message](https://squide.newgrounds.com/) if something is wrong i guess lol  
 built on [psych engine](https://github.com/ShadowMario/FNF-PsychEngine) by shadowmario & co
 
+![terriblefate](https://github.com/alyxjpg/thechieffunkmongus/blob/main/assets/exclude/images/terriblefate.png)
+
 ## Credits
 
 Chief Among Us Team
