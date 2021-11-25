@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Chief.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chief menu0000" x="10" y="10" width="162" height="332"/>
+	<SubTexture name="chief menu0001" x="182" y="10" width="162" height="332"/>
+	<SubTexture name="chief menu0002" x="182" y="10" width="162" height="332"/>
+	<SubTexture name="chief menu0003" x="354" y="10" width="162" height="332"/>
+	<SubTexture name="chief menu0004" x="526" y="10" width="162" height="332"/>
+	<SubTexture name="chief menu0005" x="698" y="10" width="162" height="332"/>
+	<SubTexture name="chief menu0006" x="870" y="10" width="162" height="332"/>
+	<SubTexture name="chief menu0007" x="870" y="10" width="162" height="332"/>
+	<SubTexture name="chief menu0008" x="1042" y="10" width="162" height="332"/>
+	<SubTexture name="chief menu0009" x="1042" y="10" width="162" height="332"/>
+	<SubTexture name="chief menu0010" x="1042" y="10" width="162" height="332"/>
+	<SubTexture name="chief menu0011" x="1042" y="10" width="162" height="332"/>
+</TextureAtlas>

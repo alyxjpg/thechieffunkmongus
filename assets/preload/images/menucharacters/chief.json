@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_chief",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"idle_anim": "chief menu",
+	"confirm_anim": "chief menu"
+}

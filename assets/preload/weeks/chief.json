@@ -1,0 +1,48 @@
+{
+	"storyName": "the chief funkin among us",
+	"hideFreeplay": false,
+	"weekBackground": "stageminecraft",
+	"weekBefore": "",
+	"freeplayColor": [
+		93,
+		134,
+		75
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"chief",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"weapons",
+			"chief",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"iwasafk",
+			"chief",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"blackandwhite",
+			"black",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "The Chief Among Us"
+}

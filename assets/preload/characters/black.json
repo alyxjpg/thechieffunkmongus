@@ -1,0 +1,109 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				817,
+				235
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "black_assets idle",
+			"indices": [
+				0,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				759,
+				195
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "black_assets down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				813,
+				312
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "black_assets up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				872,
+				256
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "black_assets left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				564,
+				351
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "black_assets right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				817,
+				235
+			],
+			"anim": "fadeIn",
+			"fps": 24,
+			"name": "black_assets idle",
+			"indices": [
+				0,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				817,
+				235
+			],
+			"anim": "fadeOut",
+			"fps": 24,
+			"name": "black_assets idle",
+			"indices": [
+				0,
+				0
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/black_assets",
+	"position": [
+		-10,
+		-90
+	],
+	"healthicon": "black",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-1147,
+		-310
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}
