@@ -1,90 +1,90 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				817,
 				235
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 30,
-			"name": "black_assets idle",
+			"anim": "idle",
 			"indices": [
 				0,
 				0
-			]
+			],
+			"name": "black_assets idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				759,
 				195
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "black_assets down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "black_assets down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				813,
 				312
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "black_assets up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "black_assets up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				872,
 				256
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "black_assets left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "black_assets left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				564,
 				351
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "black_assets right",
-			"indices": []
+			"indices": [],
+			"name": "black_assets right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				817,
 				235
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "fadeIn",
-			"fps": 24,
-			"name": "black_assets idle",
 			"indices": [
 				0,
 				0
-			]
+			],
+			"name": "black_assets idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				817,
 				235
 			],
-			"anim": "fadeOut",
+			"loop": false,
 			"fps": 24,
-			"name": "black_assets idle",
+			"anim": "fadeOut",
 			"indices": [
 				0,
 				0
-			]
+			],
+			"name": "black_assets idle"
 		}
 	],
 	"no_antialiasing": true,
@@ -101,7 +101,7 @@
 		255
 	],
 	"camera_position": [
-		-1147,
+		-1167,
 		-310
 	],
 	"sing_duration": 4,
