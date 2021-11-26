@@ -45,7 +45,7 @@ import openfl.utils.Assets as OpenFlAssets;
 import editors.ChartingState;
 import editors.CharacterEditorState;
 import flixel.group.FlxSpriteGroup;
-import Achievements;
+//import Achievements;
 import StageData;
 import FunkinLua;
 import DialogueBoxPsych;
